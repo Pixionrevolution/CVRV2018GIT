@@ -1,0 +1,219 @@
+fileFormatVersion: 2
+guid: bb69aff5b06f7e446973d6ea3c7d48ce
+timeCreated: 1520614833
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Box019
+    100002: Box020
+    100004: Box022
+    100006: Box023
+    100008: Box024
+    100010: "ENtr\xE9e"
+    100012: Fenetre
+    100014: Fond
+    100016: Gouttiere
+    100018: Line001
+    100020: "Mur entr\xE9e Gauche"
+    100022: //RootNode
+    100024: Roof
+    100026: SolHouse
+    100028: Stairs
+    400000: Box019
+    400002: Box020
+    400004: Box022
+    400006: Box023
+    400008: Box024
+    400010: "ENtr\xE9e"
+    400012: Fenetre
+    400014: Fond
+    400016: Gouttiere
+    400018: Line001
+    400020: "Mur entr\xE9e Gauche"
+    400022: //RootNode
+    400024: Roof
+    400026: SolHouse
+    400028: Stairs
+    2100000: Mur
+    2100002: Sol
+    2100004: Marches
+    2100006: Pilier
+    2100008: toit
+    2100010: Goutierre
+    2100012: "Entr\xE9e"
+    2100014: fenetre
+    2100016: FOnd
+    2100018: "MurEntr\xE9eGauche"
+    2300000: Box019
+    2300002: Box020
+    2300004: Box022
+    2300006: Box023
+    2300008: Box024
+    2300010: "ENtr\xE9e"
+    2300012: Fenetre
+    2300014: Fond
+    2300016: Gouttiere
+    2300018: Line001
+    2300020: "Mur entr\xE9e Gauche"
+    2300022: Roof
+    2300024: SolHouse
+    2300026: Stairs
+    3300000: Box019
+    3300002: Box020
+    3300004: Box022
+    3300006: Box023
+    3300008: Box024
+    3300010: "ENtr\xE9e"
+    3300012: Fenetre
+    3300014: Fond
+    3300016: Gouttiere
+    3300018: Line001
+    3300020: "Mur entr\xE9e Gauche"
+    3300022: Roof
+    3300024: SolHouse
+    3300026: Stairs
+    4300000: Line001
+    4300002: SolHouse
+    4300004: Stairs
+    4300006: Box019
+    4300008: Box020
+    4300010: Box022
+    4300012: Box023
+    4300014: Roof
+    4300016: Gouttiere
+    4300018: "ENtr\xE9e"
+    4300020: Fenetre
+    4300022: Fond
+    4300024: "Mur entr\xE9e Gauche"
+    4300026: Box024
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Entr\xE9e"
+    second: {fileID: 2100000, guid: 2a7dcfd7a4e531e4bb4cd6926bcd3069, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FOnd
+    second: {fileID: 2100000, guid: 12db40d146b3f004c891ceb95d60d9e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Goutierre
+    second: {fileID: 2100000, guid: 9dd42de8449b7034f84568c08812e866, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Marches
+    second: {fileID: 2100000, guid: 8a02d84f762f10f4cad9fa5b03b67bf4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mur
+    second: {fileID: 2100000, guid: c2fe4ae27e57e05439f21dec6262aeb5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "MurEntr\xE9eGauche"
+    second: {fileID: 2100000, guid: 1035d01ef052f214890ecc61e322bb24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pilier
+    second: {fileID: 2100000, guid: 2ca035af0149c4844ba4b18f0d0f0982, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sol
+    second: {fileID: 2100000, guid: 1830cfc994471c3458f0116b2b97c349, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fenetre
+    second: {fileID: 2100000, guid: 1f3560814baa9684685aec968c4d2ff8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: toit
+    second: {fileID: 2100000, guid: f3db10d13f4ab6c4c90e3ea4578711f4, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

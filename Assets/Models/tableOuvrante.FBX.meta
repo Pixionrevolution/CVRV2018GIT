@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: 6a7102a6d25a9074ca8394dee9ede8de
+timeCreated: 1520353129
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: backward
+    100002: Cadre
+    100004: Dummy001
+    100006: Dummy002
+    100008: latte
+    100010: latte001
+    100012: latte002
+    100014: latte003
+    100016: latte004
+    100018: latte005
+    100020: latte006
+    100022: latte007
+    100024: latte008
+    100026: latte009
+    100028: latte010
+    100030: latte011
+    100032: latte012
+    100034: latte013
+    100036: latte014
+    100038: latte015
+    100040: latte016
+    100042: latte017
+    100044: plateau
+    100046: rewind
+    100048: sortieEcran
+    100050: SortiePanneau
+    100052: //RootNode
+    100054: timePanel
+    400000: backward
+    400002: Cadre
+    400004: Dummy001
+    400006: Dummy002
+    400008: latte
+    400010: latte001
+    400012: latte002
+    400014: latte003
+    400016: latte004
+    400018: latte005
+    400020: latte006
+    400022: latte007
+    400024: latte008
+    400026: latte009
+    400028: latte010
+    400030: latte011
+    400032: latte012
+    400034: latte013
+    400036: latte014
+    400038: latte015
+    400040: latte016
+    400042: latte017
+    400044: plateau
+    400046: rewind
+    400048: sortieEcran
+    400050: SortiePanneau
+    400052: //RootNode
+    400054: timePanel
+    2100000: 'Material #27'
+    2100002: 'Material #26'
+    2100004: 'Material #25'
+    2300000: backward
+    2300002: Cadre
+    2300004: latte
+    2300006: latte001
+    2300008: latte002
+    2300010: latte003
+    2300012: latte004
+    2300014: latte005
+    2300016: latte006
+    2300018: latte007
+    2300020: latte008
+    2300022: latte009
+    2300024: latte010
+    2300026: latte011
+    2300028: latte012
+    2300030: latte013
+    2300032: latte014
+    2300034: latte015
+    2300036: latte016
+    2300038: latte017
+    2300040: plateau
+    2300042: rewind
+    2300044: sortieEcran
+    2300046: SortiePanneau
+    2300048: timePanel
+    3300000: backward
+    3300002: Cadre
+    3300004: latte
+    3300006: latte001
+    3300008: latte002
+    3300010: latte003
+    3300012: latte004
+    3300014: latte005
+    3300016: latte006
+    3300018: latte007
+    3300020: latte008
+    3300022: latte009
+    3300024: latte010
+    3300026: latte011
+    3300028: latte012
+    3300030: latte013
+    3300032: latte014
+    3300034: latte015
+    3300036: latte016
+    3300038: latte017
+    3300040: plateau
+    3300042: rewind
+    3300044: sortieEcran
+    3300046: SortiePanneau
+    3300048: timePanel
+    4300000: Cadre
+    4300002: plateau
+    4300004: sortieEcran
+    4300006: SortiePanneau
+    4300008: rewind
+    4300010: backward
+    4300012: timePanel
+    4300014: latte008
+    4300016: latte007
+    4300018: latte006
+    4300020: latte005
+    4300022: latte004
+    4300024: latte003
+    4300026: latte002
+    4300028: latte001
+    4300030: latte
+    4300032: latte017
+    4300034: latte016
+    4300036: latte015
+    4300038: latte014
+    4300040: latte013
+    4300042: latte012
+    4300044: latte011
+    4300046: latte010
+    4300048: latte009
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
